@@ -1,4 +1,4 @@
-📘 # Python-essentials
+# 📘 Python-essentials
 
 A collection of Python exercises, small scripts, and learning projects.
 
