@@ -15,11 +15,6 @@ In the long term, I aim to apply these skills to areas such as:
 -	Data analysis
 -	Automation
 -	Aerospace engineering applications
-  
-📂 **Repository Structure** - by concept levels
--	basics/
--	intermediate/
--	advanced/
 
 🤝 **Contributions** 
 
